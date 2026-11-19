@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Entries/2026-11-16.md",
+                "file": "Journal Entries/Journal Entries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-16"
+              "title": "Journal Entries"
             }
           },
           {
@@ -233,8 +233,8 @@
   },
   "active": "b45fab0c8f3776b6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Journal Entries/2026-11-16.md",
+    "Untitled.md",
     "README.md",
     "Vocabulary/Unclassified Common Word/筋力.md",
     "Vocabulary/N5/午後.md",
